@@ -1,0 +1,3 @@
+TIMER.c:6:6:TIM_Init	24	static
+TIMER.c:28:6:TIM_Start	16	static
+TIMER.c:35:6:TIM_Stop	16	static

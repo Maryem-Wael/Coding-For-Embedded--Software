@@ -1,0 +1,3 @@
+PollDataClient.c:11:6:init_Client	8	static
+PollDataClient.c:16:6:update	16	static
+PollDataClient.c:19:6:Handle_data	16	static

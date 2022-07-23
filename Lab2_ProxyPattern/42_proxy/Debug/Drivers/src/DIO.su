@@ -1,0 +1,5 @@
+DIO.c:19:6:DIO_Init	24	static
+DIO.c:90:6:DIO_ChannelWrite	32	static
+DIO.c:110:6:DIO_ChannelWrite_Group	24	static
+DIO.c:136:6:DIO_ChannelRead	24	static
+DIO.c:153:16:DIO_ChannelRead_Group	32	static
