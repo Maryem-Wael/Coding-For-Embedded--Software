@@ -1,3 +1,4 @@
+
 # Coding-For-Embedded-Software
 
 
@@ -16,3 +17,15 @@
  # Lab 5
  
   ## FSM
+
+ # Lab 6
+ 
+  ## Blinking 3Leds using RTOS
+  
+ # Task 1
+   
+   ## General Purpose Timer Driver.
+   
+  # Task 2
+  
+   ## Applying Misra Rules on Task 1.
